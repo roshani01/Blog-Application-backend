@@ -79,4 +79,9 @@ public class UserDto {
     public void setAbout(String about) {
         this.about = about;
     }
+
+	public Integer getUserId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

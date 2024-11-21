@@ -3,6 +3,10 @@ package com.dl.blog_app.services;
 import com.dl.blog_app.payload.CategoryDto;
 import java.util.List;
 
+import org.springframework.stereotype.Service;
+
+
+@Service
 public interface CategoryService {
     
     // Create a new category
